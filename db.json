@@ -1,8 +1,10 @@
-[
-  {
-    "id": 0,
-    "description": "INTERSTELLAR",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "INTERSTELLAR 0"
-  }
-]
+{
+    "tokens": [
+        {
+            "id": 0,
+            "description": "INTERSTELLAR",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "INTERSTELLAR NFT 0"
+        }
+    ]
+}
