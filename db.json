@@ -1,10 +1,11 @@
 {
-    "tokens": [
+    "attributes": [
         {
-            "id": 0,
-            "description": "INTERSTELLAR",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "INTERSTELLAR NFT 0"
+            "trait_type": "Color",
+            "value": "Green"
         }
-    ]
+    ],
+    "description": "Zereflab logo!",
+    "image": "https://zereflab.com/wp-content/uploads/thegem-logos/logo_3ca5d2b23756fd47b2521e97155ec6e6_1x.png",
+    "name": "ZEREFLAB"
 }
